@@ -4,43 +4,43 @@
       "id": 1,
       "eventName": "1. Blood Donation",
       "eventDate": "2022-01-12",
-      "place": "Beograd",
-      "address": "Deligradska 28"
+      "place": "Belgrade",
+      "address": "Saint Sava Street 24"
     },
     {
       "id": 2,
-      "eventName": "2. Redovna akcija davanja krvi",
+      "eventName": "2. Blood Donation",
       "eventDate": "2022-02-12",
-      "place": "Beograd",
-      "address": "Deligradska 28"
+      "place": "Belgrade",
+      "address": "Saint Sava Street 24"
     },
     {
       "id": 3,
-      "eventName": "3. Redovna akcija davanja krvi",
+      "eventName": "3. Blood Donation",
       "eventDate": "2022-03-12",
-      "place": "Beograd",
-      "address": "Deligradska 28"
+      "place": "Belgrade",
+      "address": "Saint Sava Street 24"
     },
     {
       "id": 4,
-      "eventName": "4. Redovna akcija davanja krvi",
+      "eventName": "4. Blood Donation",
       "eventDate": "2022-04-12",
-      "place": "Beograd",
+      "place": "Belgrade",
       "address": "Deligradska 28"
     },
     {
       "id": 5,
-      "eventName": "5. VMA Akcija Davanja Krvi",
+      "eventName": "5. Blood Donation",
       "eventDate": "2022-08-15",
       "place": "Belgrade",
-      "address": "Deligradska 28"
+      "address": "Saint Sava Street 24"
     },
     {
       "id": 6,
-      "eventName": "9. VMA Akcija Davanja Krvi",
+      "eventName": "9. Blood Donation",
       "eventDate": "2022-08-16",
       "place": "Belgrade",
-      "address": "Deligradska 28"
+      "address": "Saint Sava Street 24"
     }
   ],
   "donationListings": [
@@ -280,10 +280,10 @@
   "donors": [
     {
       "id": 1,
-      "employeeNumber": 436313,
-      "name": "Slavimir",
+      "employeeNumber": 444555,
+      "name": "Robert",
       "gender": "male",
-      "identificationNumber": 704978710449,
+      "identificationNumber": 1234567891011,
       "birthDate": "1984-02-11",
       "bloodType": "A",
       "rhFactor": "+",
@@ -291,16 +291,16 @@
       "totalDonationNumber": 1,
       "member": true,
       "activity": true,
-      "note": "Napomena1",
-      "status": "1 Radnik BVK",
+      "note": "Note 1",
+      "status": "1 Company Worker",
       "phone": "5641238971"
     },
     {
       "id": 2,
       "employeeNumber": 436301,
-      "name": "Ljubivoje",
+      "name": "David",
       "gender": "male",
-      "identificationNumber": 704978710449,
+      "identificationNumber": 1234567891012,
       "birthDate": "1978-04-07",
       "bloodType": "0",
       "rhFactor": "+",
@@ -308,15 +308,15 @@
       "totalDonationNumber": 3,
       "member": true,
       "activity": true,
-      "note": "Napomena2",
-      "status": "3 Zaposlen",
+      "note": "Note 2",
+      "status": "3 Employed",
       "phone": "5641238971"
     },
     {
       "id": 3,
       "employeeNumber": 436300,
-      "name": "Dragana",
-      "identificationNumber": 704978710449,
+      "name": "Barbara",
+      "identificationNumber": 1234567891013,
       "birthDate": "1982-01-23",
       "bloodType": "B",
       "rhFactor": "-",
@@ -324,16 +324,16 @@
       "totalDonationNumber": 5,
       "member": false,
       "activity": true,
-      "note": "Napomena3",
-      "status": "4 Nezaposlen",
+      "note": "Note 3",
+      "status": "4 Unemployed",
       "phone": "5641"
     },
     {
       "id": 4,
       "employeeNumber": 436399,
-      "name": "Janko",
+      "name": "Michael",
       "gender": "male",
-      "identificationNumber": 704978710449,
+      "identificationNumber": 1234567891014,
       "birthDate": "1969-10-05",
       "bloodType": "AB",
       "rhFactor": "+",
@@ -341,15 +341,15 @@
       "totalDonationNumber": 1,
       "member": false,
       "activity": false,
-      "note": "Napomena4",
-      "status": "2 Penzioner",
+      "note": "Note 4",
+      "status": "2 Pensioner",
       "phone": "5641238971"
     },
     {
       "id": 5,
       "employeeNumber": "488222",
-      "name": "Branko",
-      "identificationNumber": "0704978710555",
+      "name": "George",
+      "identificationNumber": "1234567891015",
       "birthDate": "1973-07-19",
       "bloodType": "AB",
       "rhFactor": "-",
@@ -357,15 +357,15 @@
       "totalDonationNumber": 1,
       "member": true,
       "activity": true,
-      "note": "Napomena Branko",
-      "status": "3 Zaposlen",
+      "note": "Note 5",
+      "status": "3 Employed",
       "phone": "38163393322"
     },
     {
       "id": 6,
       "employeeNumber": "488222",
-      "name": "Slavimir1",
-      "identificationNumber": "0709990710877",
+      "name": "Jason",
+      "identificationNumber": "1234567891016",
       "birthDate": "19801-01-01",
       "bloodType": "AB",
       "rhFactor": "-",
@@ -373,15 +373,15 @@
       "totalDonationNumber": 4,
       "member": true,
       "activity": true,
-      "note": "Napomena Slavimir1",
-      "status": "1 Radnik BVK",
+      "note": "Note 6",
+      "status": "1 Company Worker",
       "phone": "5641238971"
     },
     {
       "id": 7,
       "employeeNumber": "433188",
-      "name": "Branko5",
-      "identificationNumber": "0709990710877",
+      "name": "Thomas",
+      "identificationNumber": "1234567891017",
       "birthDate": "1970-10-10",
       "bloodType": "0",
       "rhFactor": "+",
@@ -389,27 +389,27 @@
       "totalDonationNumber": 0,
       "member": true,
       "activity": "",
-      "note": "Napomena Branko5",
-      "status": "2 Penzioner",
+      "note": "Note 7",
+      "status": "2 Pensioner",
       "phone": "5641238971"
     }
   ],
   "statuses": [
     {
       "id": 1,
-      "statusName": "1 Radnik BVK"
+      "statusName": "1 Company Worker"
     },
     {
       "id": 2,
-      "statusName": "2 Penzioner"
+      "statusName": "2 Pensioner"
     },
     {
       "id": 3,
-      "statusName": "3 Zaposlen"
+      "statusName": "3 Employed"
     },
     {
       "id": 4,
-      "statusName": "4 Nezaposlen"
+      "statusName": "4 Unemployed"
     }
   ]
 }
